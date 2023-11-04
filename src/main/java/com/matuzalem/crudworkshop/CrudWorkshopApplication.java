@@ -10,4 +10,6 @@ public class CrudWorkshopApplication {
         SpringApplication.run(CrudWorkshopApplication.class, args);
     }
 
+
+
 }
